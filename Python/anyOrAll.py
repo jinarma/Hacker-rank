@@ -5,4 +5,5 @@ temp = input()
 num_list = temp.split(' ')
 for i in count:
 	if i//2 <= 3:
+		all(num_list)
 		pass
